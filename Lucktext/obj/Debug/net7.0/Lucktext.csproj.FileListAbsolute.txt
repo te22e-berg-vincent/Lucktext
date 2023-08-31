@@ -1,0 +1,4 @@
+c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfoInputs.cache
+c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfo.cs
+c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.csproj.CoreCompileInputs.cache
