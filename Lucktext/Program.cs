@@ -1,11 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 
 
 string val ="";
-Console.WriteLine("jabfdkjabfknlabfklnbff");
-Console.WriteLine("jabfdkjabfknlabfklnbff");
-Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff ja/ nej");
 val = Console.ReadLine();
@@ -17,33 +14,33 @@ Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
-Console.WriteLine("du dog");
+Console.WriteLine("du dog LOL");
 }
 else if (val == "nej")
 {
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-    Console.WriteLine("jabfdkjabfknlabfklnbff");
-Console.WriteLine("jabfdkjabfknlabfklnbff springa/smyga");
-}
 
-if (val == "springa")
+    Console.WriteLine("jabfdkjabfknlabfklnbff");
+    Console.WriteLine("jabfdkjabfknlabfklnbff");
+Console.WriteLine("springa/smyga");
+
+ }
+string val2 = "springa";
+val2 = Console.ReadLine();
+if (val2 == "springa"){
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff");
 Console.WriteLine("jabfdkjabfknlabfklnbff du blev uptäck och dog");
- else if (val == "smyga")
- {
- Console.WriteLine("jabfdkjabfknlabfklnbff");
- Console.WriteLine("jabfdkjabfknlabfklnbff");
- Console.WriteLine("jabfdkjabfknlabfklnbff");
- Console.WriteLine("jabfdkjabfknlabfklnbff");
- Console.WriteLine("jabfdkjabfknlabfklnbff du flydde");
 }
 
- Console.WriteLine("tryck ENTER för att stänga av");
+
+else if (val2 == "smyga")
+
+ {
+
+ Console.WriteLine("jabfdkjabfknlabfklnbff du flydde");
+}
+ 
+ //Console.WriteLine("tryck ENTER för att stänga av");
  Console.ReadLine();

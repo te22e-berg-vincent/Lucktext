@@ -2,3 +2,13 @@ c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Deb
 c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfoInputs.cache
 c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfo.cs
 c:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.exe
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.deps.json
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.runtimeconfig.json
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.dll
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.pdb
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.dll
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\refint\Lucktext.dll
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.pdb
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.genruntimeconfig.cache
+C:\Users\vincent.berg2\Documents\Programerings projekt\Lucktext\Lucktext\obj\Debug\net7.0\ref\Lucktext.dll
